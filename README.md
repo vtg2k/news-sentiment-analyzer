@@ -17,7 +17,7 @@ This project demonstrates the development and deployment of an Azure Function Ap
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/news-sentiment-analyzer.git
+    git clone https://github.com/vtg2k/news-sentiment-analyzer.git
     cd news-sentiment-analyzer
     ```
 
